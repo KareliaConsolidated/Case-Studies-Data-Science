@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+__pycache__
+checkpoint.pth
+flower_data
+classifier.pth
